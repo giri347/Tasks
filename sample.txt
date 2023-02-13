@@ -2,3 +2,4 @@ hello
 how are you ?
 what are doing ?
 mycomapny is einfochips
+https://www.softwaretestinghelp.com/ansible-playbooks-ansible-vaults/ #ansible automation taks Url
